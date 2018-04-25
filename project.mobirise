@@ -30,7 +30,9 @@
     },
     "versionFirst": "4.7.1",
     "uniqCompNum": 6,
-    "versionPublish": "4.7.1"
+    "versionPublish": "4.7.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
